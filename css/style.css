@@ -109,7 +109,7 @@ header .titular .publicar a
 	font-style: italic;
 	padding: 0.3em 0.5em;
 }
-header .titular .publicar a:after
+header .titular .publicar a:before
 {
 	font-family: iconos;
 	content: "\e600";
